@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey Everyone! 👋
 
-<!--
-**amir-rahnama/amir-rahnama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Amir Rahnama. I am a senior Machine Learning Engineer at Capgemini (Sweden). I am also a former PhD student at KTH Royal Institute of Technology (Stockholm, Sweden). 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m working on a project to automatically deploy RAG solutions on Azure Databricks.
+- 🌱 I’m currently learning RAGS on Databricks (with Terraform).
+- 👯 I want to collaborate on XAI on Large Language Models (LLMs).
+- 🤔 I’m looking for help with building graph neural networks.
+- 💬 Ask me about Machine Learning and Artificial Intelligence.
+- 📫 How to reach me: Send me a message on Twitter: @amir-rahnama
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I changed my field of study three times in university: mathematics --> information technology --> artificial intelligence
+
