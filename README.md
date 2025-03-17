@@ -1,6 +1,6 @@
 ## Hey Everyone! 👋
 
-My name is Amir Rahnama. I am a senior Machine Learning Engineer at Capgemini (Sweden). I am also a former PhD student at KTH Royal Institute of Technology (Stockholm, Sweden). 
+My name is Amir Rahnama. I am a senior Machine Learning Engineer at Capgemini (Sweden). I also hold an ML PhD from KTH Royal Institute of Technology (Stockholm, Sweden). 
 
 Here are some ideas to get you started:
 
